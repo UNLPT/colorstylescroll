@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">colorstylescroll</string>
+    <string name="helloworld">helloworld</string>
+    <string name="helloworld2">helloworld!</string>
+    <string name="red" >RED : ?</string>
+    <string name="GREEN" >GREEN : ?</string>
+    <string name="blue">BLUE : ?</string>
+    <string name="change">CHANGE</string>
+</resources>
